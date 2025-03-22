@@ -40,5 +40,5 @@ To verify the configuration:
 1. Start the Node.js server by running:
 ```node server.js```
 2. Open a web browser and navigate to: ```http://myexample.com:3000```
-3. Confirm that "Hello Gentaur!" is displayed.
+
 
